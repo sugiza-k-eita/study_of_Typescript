@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sugiza-k-eita/study_of_typescript/issues"
   },
-  "homepage": "https://github.com/sugiza-k-eita/study_of_typescript#readme"
+  "homepage": "https://github.com/sugiza-k-eita/study_of_typescript#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
